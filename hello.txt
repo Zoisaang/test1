@@ -8,4 +8,4 @@ if __name__ == "__main__":
 	print("Hello world{}.format(n)))
 	print("Revised on branch hot-fix")
 	print("This is the conflict version“)
-	print("This is on branch hot-fix")
+	print("This is on branch hot-fix, after revision")
