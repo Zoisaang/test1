@@ -9,3 +9,4 @@ if __name__ == "__main__":
 	print("Revised on branch hot-fix")
 	print("This is the conflict version“)
 	print("This is on branch hot-fix")
+	print("Revised by authord")
