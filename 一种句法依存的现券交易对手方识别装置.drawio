@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T02:07:16.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UJPCwr9R8Nrrdz5bTxtx" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T02:09:36.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="htWkeqEnPhdGPoUZb16v" version="16.0.0" type="github">
   <diagram id="1vwMO78F63A42fUgwjm2" name="Page-1">
     <mxGraphModel dx="865" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z27-uRXxiAsdTS0FbLUc-89" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=18;dashed=1;strokeWidth=2;fillColor=#F0F3F5;strokeColor=#007FFF;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="390" height="340" as="geometry" />
+          <mxGeometry x="400" y="210" width="400" height="340" as="geometry" />
         </mxCell>
         <mxCell id="z27-uRXxiAsdTS0FbLUc-144" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="450" y="390" width="300" height="110" as="geometry" />
@@ -128,14 +128,14 @@
           <mxGeometry x="285" y="430" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z27-uRXxiAsdTS0FbLUc-79" value="&lt;font color=&quot;#009999&quot;&gt;Spacy句法解析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;fontSize=18;fontColor=#FF8000;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="570" width="330" height="30" as="geometry" />
+          <mxGeometry x="400" y="570" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z27-uRXxiAsdTS0FbLUc-81" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontSize=18;fontColor=#FF8000;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z27-uRXxiAsdTS0FbLUc-1">
+        <mxCell id="z27-uRXxiAsdTS0FbLUc-81" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontSize=18;fontColor=#FF8000;curved=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="584.58" as="sourcePoint" />
-            <mxPoint x="440" y="584.58" as="targetPoint" />
+            <mxPoint x="360" y="585" as="sourcePoint" />
+            <mxPoint x="400" y="584.58" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="585" />
+              <mxPoint x="400" y="585" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -300,6 +300,12 @@
         </mxCell>
         <mxCell id="z27-uRXxiAsdTS0FbLUc-158" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="360" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z27-uRXxiAsdTS0FbLUc-160" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="305" width="20" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="z27-uRXxiAsdTS0FbLUc-161" value="x 3" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="377.5" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
