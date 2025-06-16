@@ -60,7 +60,7 @@
         <mxCell id="fZ_mb3iRuPxJW4_zwdLX-15" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Comic Sans MS&quot;&gt;reward r&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fZ_mb3iRuPxJW4_zwdLX-16" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Comic Sans MS&quot;&gt;TD errpr&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fZ_mb3iRuPxJW4_zwdLX-16" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Comic Sans MS&quot;&gt;TD error&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
