@@ -40,7 +40,31 @@
           <mxGeometry x="408.5" y="150" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I5RHaz3ScfklKH06W_fI-7" value="200&lt;div&gt;Seed + KV&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="300" y="215" width="65" height="65" as="geometry" />
+          <mxGeometry x="297" y="215" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="I5RHaz3ScfklKH06W_fI-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UF7cHTjBoaLbCPgE46Oi-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="403" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5RHaz3ScfklKH06W_fI-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/robot-128.png" vertex="1" parent="1">
+          <mxGeometry x="304.06" y="330" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I5RHaz3ScfklKH06W_fI-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="280.06" y="341.5" width="24" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="I5RHaz3ScfklKH06W_fI-14" value="Self-instruct Technic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.06" y="341.5" width="90" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I5RHaz3ScfklKH06W_fI-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5RHaz3ScfklKH06W_fI-7" target="I5RHaz3ScfklKH06W_fI-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
